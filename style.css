@@ -39,4 +39,23 @@ body{
     font-size: 1.5rem;
   }
 
-  
+  p{
+    color : grey;
+}
+p :hover{
+    color:white;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color : grey;
+}
+a :hover{
+    text-decoration: none;
+    color : white;
+
+}
+
+.account{
+    color : white;
+}
